@@ -13,3 +13,7 @@ Flask API able to retrieve the following Restaurant data:
 1. Enter a "lat"(latitude) and "lon"(longitude) parameter at the "/discovery" endpoint.
 2. Make a GET Request.
 3. JSON Response is returned displaying relevant information.
+
+## Live Demo
+
+Find the live version of the API here: [wolt-restaurant-api](https://wolt-restaurant-api.herokuapp.com/)
